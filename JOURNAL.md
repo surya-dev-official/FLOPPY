@@ -24,7 +24,7 @@
 
 October 5: Learnt the basics of KiCad + Added and wired ESP32, MPU6050, and OLED display in Schematics Editor.
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wcOBQh83TJiHYcIfFNZDTOPITsdvTWkf/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.jpg)
+![Screenshot 2026-10-05 at 15.33.15](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/wcOBQh83TJiHYcIfFNZDTOPITsdvTWkf/47f68d4907da0df76721e665c8b099c5d56dd9b6ed5266751c7d0c4642a21f37.png)
 
 I had a lot of difficulty having KiCad find the correct libraries so that I could add components and symbols. If anyone is dealing with a similar problem, I would highly recommend this tutorial by  Angus Quigley:
 
