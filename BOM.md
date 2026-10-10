@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [PCB](https://cart.jlcpcb.com/shopcart/cart) | PCB is the main component of this project. (The project itself is $4. The rest is from shipping to Norway) Also the minimum quantity was 5. | 1 | $4.00 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/shopcart/cart) |
 | **Parts subtotal** | — | — | — | **$4.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$4.00** | — |
+| **Tax & shipping** | — | — | — | **$23.21** | — |
+| **Total** | — | — | — | **$27.21** | — |
 
-$26.00 left of the tier's funding.
+$2.79 left of the tier's funding.
